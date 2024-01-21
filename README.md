@@ -17,7 +17,7 @@ class MyProfile(human.Human):
         self.skills = ['Python', 'JavaScript']
 
     def say_hello(self):
-        return f"👋 Hello World! I'm {self.name}, your friendly neighborhood {self.profession}. Let's code some magic!"
+        return f"Hi 👋! I'm {self.name}, a {self.profession}. Let's code some magic!"
 
 #Instantiating this work of art, I mean why not?
 my_profile = MyProfile()
