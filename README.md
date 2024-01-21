@@ -50,15 +50,19 @@ my_profile = MyProfile()
 
 <br>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=earnstein&show_icons=true&locale=en&layout=compact" alt="earnstein" /></p>
+
+
+
+<br>
+<p align="right" >
+    <a href="https://github.com/earnstein">
+  <img src="https://komarev.com/ghpvc/?username=earnstein&label=Profile%20visits&color=5494F0&style=for-the-badge" />
+</a>
+</p>
+
 <p align="left">
 <a href="https://twitter.com/b_dammylolah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_dammylolah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/damilola-bakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilola-bakare" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=earnstein&show_icons=true&locale=en&layout=compact" alt="earnstein" /></p>
-
-<a href="https://github.com/earnstein">
-  <img align="right" src="https://komarev.com/ghpvc/?username=earnstein&label=Profile%20visits&color=5494F0&style=for-the-badge" />
-</a>
-
-<br>
