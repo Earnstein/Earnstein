@@ -27,6 +27,7 @@ my_profile = MyProfile()
   <img align="right" height="100%" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
+<br>
 
 ### Who am I?
 
@@ -38,7 +39,6 @@ my_profile = MyProfile()
 - 📚 I read a lot on databases. see, MongoDB is my friend; we go way back.
 - 📐 I loveee mathematics, can't resist finding 'x' – it's my favorite treasure hunt😅.
 -  👨‍💻 Check out my portofolio [earnstein.vercel.app](https://earnstein.vercel.app/)
-
 
 <br>
 
