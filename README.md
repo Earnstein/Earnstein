@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🧙‍♂️,  I'm Earnstein😎 </h1>
+<h1 align="center">Hello World!, I'm Earnstein 🧙‍♂️ </h1>
 
 <br>
 
