@@ -43,8 +43,8 @@ my_profile = MyProfile()
 <br>
 
 ### My Stacks
-- Language: Javascript(Node.js)⚡️, Python ✨.
-- Frameworks: React, Django, Flask, FastAPI, Express
+- Language: Typescript⚡️, Javascript🌟, Python✨.
+- Frameworks: React, Django, Flask, FastAPI, Express, Gin
 - Database: MySQL, MongoDB, PostgreSQL
 - Infrastructure: AWS.
 
