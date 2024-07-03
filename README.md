@@ -14,7 +14,7 @@ class MyProfile(human.Human):
 
     def __init__(self):
         super().__init__()
-        self.skills = ['Python', 'JavaScript']
+        self.skills = ['Golang', 'Python', 'JavaScript']
 
     def say_hello(self):
         return f"Hi 👋! I'm {self.name}, a {self.profession}. Let's code some magic!"
