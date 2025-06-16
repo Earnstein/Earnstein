@@ -8,9 +8,9 @@ import human  # No need to reinvent the wheel, right?
 class MyProfile(human.Human):
     name = 'Damilola Bakare'
     gender = 'Male'
-    pronouns = ('.py', '.js')
+    pronouns = ('.go', '.py', '.ts')
     location = 'Lagos, Nigeria'
-    profession = 'Full Stack Sorcerer'
+    profession = 'Software Engineer'
 
     def __init__(self):
         super().__init__()
